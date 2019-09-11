@@ -1,11 +1,11 @@
 [frontends]
-frontend1.f165.internal
+frontend1.{{GUID}}.example.opentlc.com
 
 [apps]
-app1.f165.internal 
-app2.f165.internal 
+app1.{{GUID}}.example.opentlc.com
+app2.{{GUID}}.example.opentlc.com
 
 [appdbs]
-appdb1.f165.internal 
+appdb1.{{GUID}}.example.opentlc.com
 
 
