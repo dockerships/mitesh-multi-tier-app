@@ -1,11 +1,11 @@
 [frontends]
-frontend1."{{GUID}}".example.opentlc.com
+frontend1.f165.example.opentlc.com
 
 [apps]
-app1."{{GUID}}".example.opentlc.com
-app2."{{GUID}}".example.opentlc.com
+app1.f165.example.opentlc.com
+app2.f165.example.opentlc.com
 
 [appdbs]
-appdb1."{{GUID}}".example.opentlc.com
+appdb1.f165.example.opentlc.com
 
 
