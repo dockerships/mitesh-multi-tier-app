@@ -1,9 +1,9 @@
 [frontends]
-"frontend1.{{GUID}}.example.opentlc.com"
+"frontend1.6766.example.opentlc.com"
 
 [apps]
-"app1.{{GUID}}.example.opentlc.com"
-"app2.{{GUID}}.example.opentlc.com"
+"app1.6766.example.opentlc.com"
+"app2.6766.example.opentlc.com"
 
 [appdbs]
-"appdb1.{{GUID}}.example.opentlc.com"
+"appdb1.6766.example.opentlc.com"
